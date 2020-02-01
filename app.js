@@ -34,7 +34,7 @@ function render() {
     else if (currentFilter === 'completed') filtered = todos.filter(function(t) { return t.completed; });
 
     if (filtered.length === 0) {
-        list.innerHTML = '<li class="empty">Nothing here</li>';
+        list.innerHTML = '<li class="empty">No todos yet</li>';
     } else {
         for (var i = 0; i < filtered.length; i++) {
             var idx = todos.indexOf(filtered[i]);
