@@ -14,3 +14,4 @@ Simple todo list app with localStorage.
 ## Usage
 
 Open `index.html` in a browser. Todos are saved automatically.
+
