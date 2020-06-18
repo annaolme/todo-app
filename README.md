@@ -15,3 +15,5 @@ Simple todo list app with localStorage.
 
 Open `index.html` in a browser. Todos are saved automatically.
 
+
+- Clear all: removes every task from the list
