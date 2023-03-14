@@ -17,3 +17,5 @@ Open `index.html` in a browser. Todos are saved automatically.
 
 
 - Clear all: removes every task from the list
+
+Includes a simple checkmark favicon.
